@@ -15,6 +15,6 @@ As a VR-user, I need to launch SteamVR before iRacing is running, and since Crew
 
 ## Support
 
-You can ask any questions or get support for the app over at the [iRacing Forums]().
+You can ask any questions or get support for the app over at the [iRacing Forums](https://forums.iracing.com/discussion/40000/app-iracing-startup-companion).
 
 If you *really* like the app, you can make a donation via [PayPal](https://paypal.me/GetUpKidAK?locale.x=en_GB). Thanks!
